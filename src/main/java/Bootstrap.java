@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.io.*;
 
 /**
- * Created by vegito2002 on 3/15/17.
+  Created by vegito2002 on 3/15/17.
  */
 public class Bootstrap {
     private static final String OUTPUT_PATH = "problem.ecl";
